@@ -63,5 +63,5 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
-Algumas pessoas lêem "Guerra e Paz" e acham que é um simples romance. Outras pessoas lêem uma embalagem de chiclete e desvendam os segredos do universo...
--Lex Luthor
+A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais.
+--Aristóteles
